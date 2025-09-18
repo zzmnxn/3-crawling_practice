@@ -31,6 +31,7 @@ git push origin "본인폴더명" # 오리진에 푸시
 ├── README.md # 프로젝트 설명 리드미 (수정X)
 └── "본인폴더명" #(개인 폴더)
     └── yanolja_crawling.py # python 코드 파일
+    └── static-crawling_assignment.py # python 코드 파일
 └── .gitignore # gitignore파일(가상환경파일을 숨김처리)
 └── requirements.txt # 텍스트 파일(패키지 관리 파일)
 ```
